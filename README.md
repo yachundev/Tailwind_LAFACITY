@@ -1,4 +1,4 @@
-## Технический стек
+## Usage
 
 ![TypeScript](https://img.shields.io/badge/typescript-typescript?labelColor=000&color=000&logo=typescript&logoColor=fff&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/next.js-next?labelColor=000&color=000&logo=next.js&logoColor=fff&style=for-the-badge)
